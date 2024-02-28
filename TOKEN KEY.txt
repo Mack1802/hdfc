@@ -1,0 +1,20 @@
+GIT TOKEN KEY 
+
+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
+
+git hub https://github.com/Mack1802/devops26.git
+
+git conflict notes :
+                     git config --global merge.tool vimdiff
+                     git config --global merge.conflictstyle diff3
+                     git config --global mergetool.prompt false
+
+Master 
+branch
+merge
+rebase
+cherry-pick
+reset
+clone
+blame
+fork
